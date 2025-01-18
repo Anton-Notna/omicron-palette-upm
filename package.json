@@ -1,7 +1,7 @@
 {
     "name": "com.omicronperson.omicronpalette",
     "displayName": "Omicron Palette",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "",
     "unity": "2022.3",
     "dependencies": {},
