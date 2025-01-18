@@ -1,0 +1,16 @@
+{
+    "name": "OmicronPaletteEditor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:d283ed8c3b3b5f64ab37b48e38ee36b8"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
